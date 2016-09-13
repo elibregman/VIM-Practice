@@ -3,3 +3,7 @@ Found programming UNIX a hurder
     The system, you see,
     Ran as slow as did he,
 And that's not saying much for the turtle.
+
+<dd> to delete a line
+<u>  to undo a certain command
+<o>  to open a new line
